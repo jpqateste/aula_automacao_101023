@@ -8,7 +8,7 @@ n3 = float(input(7.0))
 
 
 
-media = (n1 + n2 + n3)/3
+media = (n1 + n2 + n3)/3.0
 
 print(media)
 
